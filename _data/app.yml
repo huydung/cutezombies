@@ -1,13 +1,13 @@
 Escape name: Zombie Escape - Puzzle Path
 description: Deadline is approaching, REAL deadline. Make way to the doors - smash smart, not fast.
-full_description: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
+full_description: 'A game inspired by the job of a Video Game Producer. Can you assign the right tasks to the right team members at the right time, to save the whole team from the terrifying zombies approaching?
+<br>Easy to pick up game with:
+<br>- 20 levels of thrilling fun
+<br>- 10 achievements to collect
+<br>- Be smart AND fast. You can win REAL physical rewards!'
 android: https://telegra.ph/Replace-this-link-07-23
 iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
+# web: https://telegra.ph/Replace-this-link-07-23
 screenshots:
   - 1.png
   - 2.png
