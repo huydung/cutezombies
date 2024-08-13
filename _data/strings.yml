@@ -1,7 +1,7 @@
 app:
   screenshots: Screenshots
   description: Description
-  featured: Featured in
+  # featured: Featured in
 
 footer:
   copyright: Made with ❤️ in Hanoi by Cute Zombies team
