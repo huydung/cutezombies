@@ -7,7 +7,7 @@ title: Zombie Escape - Puzzle Path
 email: contact.huydung@gmail.com
 description: Escape 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "cutezombies.fun" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://cutezombies.fun" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#333'
 twitter_username: huydung
 github_username:  huydung
