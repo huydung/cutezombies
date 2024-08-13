@@ -5,9 +5,9 @@
 
 title: Zombie Escape - Puzzle Path
 email: contact.huydung@gmail.com
-description: Escape 
+description: Escape the zombies by smashing smart, not hard
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cutezombies.fun/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cutezombies.fun" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#333'
 twitter_username: huydung
 github_username:  huydung
@@ -16,11 +16,11 @@ logo: assets/images/large-logo.png
 twitter:
   username: huydung
 social:
-#  name: Sandoche Adittane
-#  links:
-#    - https://twitter.com/sandochee
-#    - https://www.facebook.com/sandoche
-#    - https://www.linkedin.com/in/sandoche
+  name: Cute Zombies
+  links:
+    - https://twitter.com/huydung
+    - https://www.facebook.com/huydung 146
+    - https://www.linkedin.com/in/nguyenhuydung
 #    - https://plus.google.com/+SandocheADITTANE
 #    - https://github.com/sandoche
 
